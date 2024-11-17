@@ -11,36 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* SSC (10th) From A.T.Z School, Jalgaon. **84.80** percentages.
+* HSC (12th) From M. J. College, Jalgaon. **86.60** percentages.
+* B.E (Pursuing 8th Sem) [SSBT, COET, Jalgaon.](https://www.sscoetjalgaon.ac.in/) **7.14** Cgpa.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Junior Data Analyst: Hacking Lux (2023 Aug - 2023 Oct)
+  * Project: Dashboard for visualizing and analyzing students feedbacks. 
+  * Developed a dynamic dashboard for visualizing and analyzing student feedbacks. 
+  * Used Django, Plotly, and Firebase, data extraction, cleaning, and visualizations.
+  * R & D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Languages: Python, C, Cpp, Javascript, HTML, CSS
+* Frameworks:
+  * Tensorflow
+  * Django
+  * Flask
+  * React JS
+* Libraries:
+  * Pandas, Numpy, Seaborn, etc..
+* Platforms:
+  * Hugging face
+  * Github
+  * Vercel
+* Core skills:
+  * Machine learning
+  * Deep learning
+  * Generative AI (learning)
+  * RAG
+  * Natural Language Processing
+  * Language modelling
+  * Performing Research
+* Inpersonal skills:
+  * Communication 
+  * Presentation (Intermidiate)
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -53,12 +62,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently doing role of instructor at organization SimpleSphere, Jalgaon.
