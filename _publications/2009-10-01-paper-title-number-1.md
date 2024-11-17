@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Notes- Complete GPT Architecture"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/gpt-architecture-notes
+excerpt: 'Published notes on Building GPT from Scratch: A proper guide covering the core concepts of developing a Generative Pre-trained Transformer model from the basics.'
+date: 2024-17-11
+venue: 'Linked In'
+slidesurl: 'https://drive.google.com/file/d/1aAtUB9Yy_qmPFhu4Rf9JAMKIcPsEw7HA/view'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
