@@ -20,6 +20,8 @@ The repo includes hands-on examples, from data preprocessing to model training a
 - SVM (Supervised)
 - Student score using KNN (Classification)
 - Time series forecasting
+- Real/Fake job listing (NLP + Classification)
+- Text classification using bert
 
 ### Skills I gained:
 - Python
