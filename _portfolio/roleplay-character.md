@@ -33,8 +33,18 @@ creativity_score=0.8259571710556718
 final_eval_score: 0.3133957153333748
 ```
 
+### Skills I Gained:
+- Tensorflow
+- Quantization techniques
+- Finetuning LLM
+- Merging models
+- Building inference and gradio UI
+
 ### Link to code:
 [Download File](/files/fineTune.ipynb)<br/> 
 [Dataset](/files/data_gen2_updated.csv)
+
+### Model link:
+[Ahanaas/HermesWithYou_V3](https://huggingface.co/Ahanaas/HermesWithYou_V3)
 
 ### Feel free to contribute :)
