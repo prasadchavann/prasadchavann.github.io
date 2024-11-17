@@ -32,7 +32,17 @@ Work experience
   * Developed a dynamic dashboard for visualizing and analyzing student feedbacks. 
   * Used Django, Plotly, and Firebase, data extraction, cleaning, and visualizations.
   * R & D.
-
+ 
+Certifications & Achievements
+======
+* Introduction to Generative AI [Credentials](https://www.cloudskillsboost.google/public_profiles/00f6463a-8780-4722-b5ad-27f67fd171ea/badges/11943119?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+* Introduction to LLM's [Credentials](https://www.cloudskillsboost.google/public_profiles/00f6463a-8780-4722-b5ad-27f67fd171ea/badges/11943164?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+* Introduction to Responsible AI [Credentials](https://www.cloudskillsboost.google/public_profiles/00f6463a-8780-4722-b5ad-27f67fd171ea/badges/11943434?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+* Prompt Design in Vertex AI [Credentials](https://www.cloudskillsboost.google/public_profiles/00f6463a-8780-4722-b5ad-27f67fd171ea/badges/11947140?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+* BCG - Data Science Job simulation [Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_i3vPyquxq8ZTcFcK3_1723551234875_completion_certificate.pdf)
+* National Level Code-A-Thon Winner
+* Science Exhibition Winner (3rd Prize)
+* 4th Runner up IEEE ML Hackathon
   
 Skills
 ======
