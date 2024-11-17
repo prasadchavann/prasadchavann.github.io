@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/gpt-architecture-notes
 excerpt: 'Published notes on Building GPT from Scratch: A proper guide covering the core concepts of developing a Generative Pre-trained Transformer model from the basics.'
-date: 2024-17-11
+date: 2024-11-17
 venue: 'Linked In'
 slidesurl: 'https://drive.google.com/file/d/1aAtUB9Yy_qmPFhu4Rf9JAMKIcPsEw7HA/view'
 ---
