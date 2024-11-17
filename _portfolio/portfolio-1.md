@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Text to PPT Builder"
+excerpt: "Developed a tool that converts text input into well-structured PowerPoint presentations. The project automates slide creation, making content organization neatly & efficient.<br/><br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
