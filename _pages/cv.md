@@ -17,7 +17,17 @@ Education
 
 Work experience
 ======
-* Junior Data Analyst: Hacking Lux (2023 Aug - 2023 Oct)
+* Instructor/ AI/ML Developer: [SimpleSphere Technologies](#), jalgaon
+  * Project: Freelancing projects.
+  * Complete course design and instructing students.
+  * Chatbot develpment.
+
+* AI/ ML Intern: [AlgoBrainAi](https://algobrainai.com/) (2024 Oct - 2024 Nov)
+  * Project: Worked with AI engineers team to complete the [SN11 Dippy Ai](https://github.com/impel-intelligence/dippy-bittensor-subnet) Roleplay project.
+  * Learned about various techniques for finetuning LLM's.
+  * Explored mixture of experts in deapth.
+ 
+* Junior Data Analyst: [Hacking Lux](https://hackinglux.com/) (2023 Aug - 2023 Oct)
   * Project: Dashboard for visualizing and analyzing students feedbacks. 
   * Developed a dynamic dashboard for visualizing and analyzing student feedbacks. 
   * Used Django, Plotly, and Firebase, data extraction, cleaning, and visualizations.
