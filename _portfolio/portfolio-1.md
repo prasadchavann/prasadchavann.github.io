@@ -4,4 +4,5 @@ excerpt: "Developed a tool that converts text input into well-structured PowerPo
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Text-to-PPT Generator: Developed a tool that converts text input into well-structured PowerPoint presentations using Mistral models. The project automates slide creation, making content organization neatly and efficient.
+
