@@ -31,7 +31,7 @@ The project focuses on identifying harmful content in text using NLP techniques,
 - Using ML models in JS
 
 ### Sources:
-[View deployed](https://ahanaas.github.io/Toxicity-Comment-Detect/)
+[View deployed](https://ahanaas.github.io/Toxicity-Comment-Detect/) <br/>
 [Github Repository](https://github.com/prasad-chavan1/Toxicity-Comment-Detect)
 
 ### Feel free to contribute :)
