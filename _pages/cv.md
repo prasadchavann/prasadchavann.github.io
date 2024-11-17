@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Instructor/ AI/ML Developer: [SimpleSphere Technologies](#), jalgaon
+* Instructor/ AI/ML Developer: [SimpleSphere Technologies](#), jalgaon (Present)
   * Project: Freelancing projects.
   * Complete course design and instructing students.
   * Chatbot develpment.
