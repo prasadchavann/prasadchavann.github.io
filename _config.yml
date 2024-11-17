@@ -21,7 +21,8 @@ repository               : "prasadchavann/prasadchavann.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  # avatar           : "profile.png"
+  avatar           : "mypic.jpg"
   name             : "Prasad Ashok Chavan"
   pronouns         : # example: "she/her"  
   bio              : "8th-semester CSE student passionate about LLMs and Gen-AI. Currently researching NLP applications for native languages to empower my native community."
