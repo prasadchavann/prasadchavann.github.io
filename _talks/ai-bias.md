@@ -10,7 +10,6 @@ location: "Maharashtra, Ind"
 
 Artificial Intelligence (AI) is changing the way we live and work. But sometimes, instead of being fair, AI systems can cause inequality. This issue, called **AI bias**, impacts areas like education, healthcare, hiring, and justice. Let’s understand what AI bias is, why it happens, and how it can affect things like gender bias in hiring.
 
----
 
 ## What Is AI Bias?
 
@@ -22,7 +21,6 @@ AI bias happens when an AI system gives unfair results because of problems in it
 
 Such biases create unfair opportunities and reduce trust in AI.
 
----
 
 ## Why Does AI Bias Happen?
 
@@ -33,7 +31,6 @@ AI learns from data, and bias sneaks in for these reasons:
 3. **Flawed Algorithms**: AI might accidentally favor one group if poorly designed.
 4. **Human Error**: Developers may unknowingly add their biases.
 
----
 
 ## Gender Bias in Hiring
 
@@ -53,7 +50,6 @@ A company’s AI tool downgraded resumes with words like "women's chess club" or
 - **Legal Risks**: Biased hiring could lead to lawsuits.
 - **Diversity Loss**: Workplace innovation suffers.
 
----
 
 ## How to Fix AI Bias
 
@@ -62,8 +58,6 @@ A company’s AI tool downgraded resumes with words like "women's chess club" or
 3. **Transparency**: Explain how AI decisions are made and allow feedback.
 4. **Human Oversight**: Keep humans involved to catch errors.
 5. **Ethical Design**: Include diverse teams and ethicists in development.
-
----
 
 ## FAQs About AI Bias
 
@@ -82,7 +76,6 @@ It leads to discrimination, missed opportunities, and less diversity.
 **5. Who should fix AI bias?**  
 Developers, companies, and policymakers must work together.  
 
----
 
 ## Conclusion
 
